@@ -117,7 +117,7 @@
       {"tipo":"opcion","texto":"Por cuánto tiempo debes dejar remojar la lechuga en la solución de vegi wash","opciones":["3 min","5 min","10 min"],"correcta":1},
       {"tipo":"abierta","texto":"Menciona la receta completa de salsa fresca"},
       {"tipo":"opcion","texto":"¿Cuáles son los ingredientes para preparar el guacamole?","opciones":["32 oz de salsa fresca por una bolsa de pulpa de aguacate","1 bolsa de pulpa de aguacate por 2 jarras de salsa fresca.","Jitomate, cebolla, cilantro, jalapeño, sal y aguacate"],"correcta":2},
-      {"tipo":"opcion","texto":"¿Cuál es el tiempo de vida del guacamole preparado?","opciones":["48 horas en línea y 48 horas en refrigeración","24 horas en línea y 36 horas en refrigeración","12 horas en línea y 36 horas en refrigeración 48/48"],"correcta":1},
+      {"tipo":"opcion","texto":"¿Cuál es el tiempo de vida del guacamole preparado?","opciones":["48 horas en línea y 48 horas en refrigeración","24 horas en línea y 36 horas en refrigeración","12 horas en línea y 36 horas en refrigeración "],"correcta":1},
       {"tipo":"abierta","texto":"¿Al preparar el pepino que herramienta utilizas?"},
       {"tipo":"opcion","texto":"¿Cómo se prepara la solución desinfectante de vegi wash?","opciones":["40 litros de agua por 1 sobre de vegi wash","10 litros de agua por 1 sobre de vegi wash","40 litros de agua por 2 sobres de vegi wash"],"correcta":0},
       {"tipo":"opcion","texto":"¿Podemos utilizar agua tibia para enjuagar los vegetales?","opciones":["Verdadero","Falso"],"correcta":1}
