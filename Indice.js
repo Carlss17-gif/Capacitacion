@@ -144,14 +144,14 @@ function mostrarExamenes(){
 
 function mostrarExamenesn1(){
   document.getElementById("contenidoArea").innerHTML = `
-    <div class="card"><button onclick="irExamen('AutoServicio')">AutoServicio</button></div>
     <div class="card"><button onclick="irExamen('SeguridadAlimentaria')">Seguridad Alimentaria</button></div>
     <div class="card"><button onclick="irExamen('Feeder')">Feeder</button></div>
     <div class="card"><button onclick="irExamen('Freír')">Freír</button></div>
-    <div class="card"><button onclick="irExamen('Cocinero')">Cocinero</button></div>
     <div class="card"><button onclick="irExamen('Tenders')">Tenders</button></div>
+    <div class="card"><button onclick="irExamen('Cocinero')">Cocinero</button></div>
     <div class="card"><button onclick="irExamen('Comedor')">Comedor</button></div>
     <div class="card"><button onclick="irExamen('Cajero')">Cajero</button></div>
+    <div class="card"><button onclick="irExamen('AutoServicio')">AutoServicio</button></div>
   `;
 }
 
