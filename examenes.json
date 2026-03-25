@@ -134,7 +134,7 @@
     {"tipo": "opcion","texto": "Siempre debe contar el cambio en voz alta frente al invitado, para que pueda oír la cantidad que recibe y asegurarse que esté correcto.","opciones": ["Verdadero", "Falso"],"correcta":0},
     {"tipo": "opcion","texto": "¿Qué le dicen al invitado que va a comer en el restaurante después de tomar su orden?","opciones": ["El próximo invitado, por favor.","Aquí está su vaso. Sírvase una bebida y condimentos siéntese. Coloque este número al borde de su mesa y le entregaremos su comida en cuanto esté lista. Gracias.","Adiós."],"correcta":1},
     {"tipo": "opcion","texto": "Está bien dejar que otros empleados usen su registradora durante su turno.","opciones": ["Verdadero", "Falso"],"correcta":1},
-    {"tipo": "multiple","texto": "Cuando maneje una queja de un invitado, los pasos incluyen: (circule todas las respuestas correctas)","opciones": ["Escuche al invitado","Pida disculpas","Agradezca al invitado","Tome acción para resolver la situación","Todas las anteriores"],"correcta":4},
+    {"tipo": "opcion","texto": "Cuando maneje una queja de un invitado, los pasos incluyen:","opciones": ["Escuche al invitado","Pida disculpas","Agradezca al invitado","Tome acción para resolver la situación","Todas las anteriores"],"correcta":4},
     {"tipo": "opcion","texto": "La verificación del cajón de efectivo al principio y al final de cada turno es un requisito cada vez que trabaje en la Estación del Cajero.","opciones": ["Verdadero", "Falso"],"correcta":0},
     {"tipo": "opcion","texto": "¿De qué formas se puede hacer “ventas sugestivas”?","opciones": ["Sugerir un combo","Sugerir un combo de mayor tamaño","Preguntándole al invitado “¿Eso es todo? / Is that all?”"],"correcta":1}
   ]
