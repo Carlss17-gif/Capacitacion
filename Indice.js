@@ -97,7 +97,7 @@ function mostrarContenido(area, subtitulo, contenido){
       html += `<p>${item.contenido}</p>`;
     }
 
-    // IMAGENES 🔥
+    // IMAGENES 
     else if(item.tipo === "imagenes"){
       html += `<h3>${item.nombre}</h3><div class="contenedor-imagenes">`;
 
