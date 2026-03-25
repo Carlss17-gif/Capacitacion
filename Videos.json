@@ -1,0 +1,20 @@
+{
+  "Videos para Capacitación": {
+    "Capacitaciones Nivel basico": [
+      {"nombre": "Estación de Tenders","tipo": "lista","contenido": ["https://drive.google.com/file/d/1Y1IdScdmCmagwJGs-NHrANuGVqrGF_54/view?usp=sharing"]},
+      {"nombre": "Estacion de Cocina","tipo": "lista","contenido": ["https://drive.google.com/file/d/1DxE3kJJJhe2Pep4dNpdMUhLUzKbl_BRt/view?usp=sharing"]},
+      {"nombre": "Servicio Super Star","tipo": "lista","contenido": ["https://drive.google.com/file/d/1MtA9EBvynThMv7A2dYB7xTwWGa5YBISP/view?usp=sharing"]},
+      {"nombre": "Estación de Autoservicio","tipo": "lista","contenido": ["https://drive.google.com/file/d/1EDNmpfy4wu0sbasl5cZkks9pzmn6C5hw/view?usp=sharing"]},
+      {"nombre": "Estacion de Feeder","tipo": "lista","contenido": ["https://drive.google.com/file/d/1EDNmpfy4wu0sbasl5cZkks9pzmn6C5hw/view?usp=sharing"]},
+      {"nombre": "Seguridad Alimentaria","tipo": "lista","contenido": ["https://drive.google.com/file/d/11_87WSOghXiz8O052aL1kkYG_ef83e1o/view?usp=sharing"]},
+      {"nombre": "Estación de Cajero ","tipo": "lista","contenido": ["https://drive.google.com/file/d/10uXzfC_G16-WSAbeIHwWecUIcip4PkcC/view?usp=sharing"]},
+      {"nombre": "Estación de Freir","tipo": "lista","contenido": ["https://drive.google.com/file/d/1m35LqmHilYyO0dhfXN-iMpI4cxJIbXwP/view?usp=sharing"]},
+      {"nombre": "Historia de Carls Jr","tipo": "lista","contenido": ["https://drive.google.com/file/d/1EKaq0H4JSQ1A00tjaSTODU5qhZCHHFSb/view?usp=sharing"]},
+      {"nombre": "Nuestra Historia ","tipo": "lista","contenido": ["https://drive.google.com/file/d/1OUkdfgqhHAZZ9t6iMgrYYA7qPuuIhJA7/view?usp=sharing"]},
+      {"nombre": "Carls Jr como lugar seguro de trabajo","tipo": "lista","contenido": ["https://drive.google.com/file/d/1alSd0gA8ReUldW-E0icnWYWCstd_Xl2M/view?usp=sharing"]}
+    ],
+    "Capacitaciones nivel medio":[
+      {"nombre": "Kid de derrames","tipo": "lista","contenido": ["https://drive.google.com/file/d/12AXKeLGerOhR8zyPF9jMIKT35-pKxN8c/view?usp=sharing"]}
+    ]
+  }
+}
