@@ -1,0 +1,34 @@
+{
+  "Estación de delivery": {
+    "Procesos": [
+      {
+        "nombre": "Rol del líder de delivery",
+        "tipo": "lista",
+        "contenido": [
+          "Escuche el tono de notificación del pedido.",
+          "Revise el pedido y confirme que todos los productos están disponibles, ajuste el pedido si es necesario.",
+          "Confirme la hora deseada del pedido por el invitado.",
+          "Ingrese el pedido en el POS y comunique a la cocina cuando se deba preparar el pedido.",
+          "Reúna condimentos y bebidas solicitadas.",
+          "Notifique al cocinero que prepare el pedido. Empaque y selle el pedido para que esté listo antes que llegue el repartidor de acuerdo a la hora estimada de llegada. Verifique la precisión del pedido.",
+          "Al llegar el repartidor, diríjalo al área de DELIVERY. Alerte a todos que el repartidor ha llegado. Confirme el código de pedido con la aplicación del repartidor.",
+          "Garantice todos los aspectos de la velocidad de servicio del pedido de DELIVERY."
+        ]
+      },
+      {"nombre": "Equipo Delivery","tipo": "imagenes","contenido": [{"nombre": "", "img": "delivery.png"}]},
+      {
+        "nombre": "Círculo de influencia",
+        "tipo": "lista",
+        "contenido": [
+          "Responsabilidades Primarias:",
+          "Ocuparse del invitado de Delivery.",
+          "Responsabilidades del Trabajo en Equipo:",
+          "Ayude a otros miembros a cuidar a los invitados.",
+          "Responsabilidades de recuperación:",
+          "Abastecer la estación inmediatamente de condimentos, bolsas, utensilios.",
+          "Limpiar el área de delivery inmediatamente."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Alergenos y Seguridad Alimentaria ": {
+    "Alergenos": [
+      {"nombre":"Alergeno","tipo":"texto",
+      "contenido":"Un alérgeno es un agente que, al ingresar al organismo humano lo deja vulnerable, y es capaz de originar una reacción"},
+      {"nombre":"¿Cuáles son los 9 principales alérgenos?","tipo":"lista",
+      "contenido":["Leche","Trigo","Soya","Huevo","Pescado","Mariscos","Cacahuate","Nueces","Sésamo"]},
+      {"nombre":"¿Qué significa CHATTO? Condiciones ideales para la reproducción de bacterias","tipo":"lista",
+      "contenido":["Comida","Humedad","Acidez","Tiempo","Temperatura","Oxígeno"]},
+      {"nombre":"¿Qué significa RAPA? (Condiciones ideales para la reproducción de plagas)","tipo":"lista",
+      "contenido":["Refugio","Alimento","Pareja","Agua"]},
+      {"nombre":"Enfermedades causadas por los alimentos con diagnostico medico","tipo":"lista",
+      "contenido":["Norovirus","Hepatitis A","Salmonella","Salmonelosis","E. coli","Shigelosis","Tuberculosis"]},
+      {"nombre":"Síntomas de infeccion causada por alimentos","tipo":"lista",
+      "contenido":["Dolor abdominal","Ictericia (coloración amarilla en piel y ojos)","Pérdida de apetito","Dolor de garganta","Diarrea","Llagas o heridas en la piel","Fiebre","Infección respiratoria","Vómito"]},
+      {"nombre":"Existen principalmente tres tipos de contaminación de alimentos: ","tipo":"lista",
+      "contenido":["1.Bacterial","Provocada por gérmenes que se crean en la comida.","Bacteria,Virus,Moho","2.Física","Causada por una partícula sólida ajena al alimento.","Ejemplo:Un alambre en la comida.","3.Química","Causada por substancias que entran en contacto con los alimentos"]},
+      {"nombre":"¿Cuál es el código de colores para limpieza?","tipo":"lista",
+      "contenido":["Rojo: comedor y mostrador","Verde: cocina (área de alimentos)","Azul: sanitarios y limpieza general"]}]
+}}

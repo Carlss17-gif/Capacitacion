@@ -1,0 +1,21 @@
+{
+  "info": "Archivo completo basado en PDF GUIA DE ESTUDIO. (Dividido por secciones dentro del mismo JSON para uso directo)",
+  "nota": "El contenido es extenso; se recomienda usarlo como base de datos o dividirlo en módulos en frontend.",
+  "secciones": [
+    "PreparacionHamburguesas",
+    "CoccionYRetencion",
+    "PinzasYCongelador",
+    "Panes",
+    "Dispensador",
+    "Descongelacion",
+    "Freidoras",
+    "Tenders",
+    "Vegetales",
+    "Temperaturas",
+    "Postres",
+    "Limpieza",
+    "DriveThru",
+    "Delivery",
+    "Enfermedades"
+  ]
+}

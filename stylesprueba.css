@@ -1,0 +1,120 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #0b0b0b;
+  color: white;
+}
+
+/* HEADER */
+.header {
+  padding: 15px;
+  border-bottom: 2px solid #f5b800;
+}
+
+/* LAYOUT */
+.container {
+  display: flex;
+  min-height: 100vh;
+}
+
+/* MENU */
+.menu {
+  width: 250px;
+  background: #1a1a1a;
+}
+
+.menu-item {
+  padding: 15px;
+  border-bottom: 1px solid #333;
+  cursor: pointer;
+}
+
+.menu-item:hover {
+  background: #333;
+}
+
+/* SUBMENU */
+.submenu {
+  background: #2a2a2a;
+  display: none;
+}
+
+.submenu div {
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.submenu div:hover {
+  background: #444;
+}
+
+/* CONTENIDO */
+.contenido {
+  flex: 1;
+  padding: 20px;
+}
+
+/* TARJETAS */
+.card {
+  background: #141414;
+  padding: 20px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: scale(1.02);
+}
+
+/* RESPONSIVE */
+@media(max-width: 768px){
+  .container {
+    flex-direction: column;
+  }
+
+  .menu {
+    width: 100%;
+  }
+}
+
+ul {
+  padding-left: 20px;
+  line-height: 1.8;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+/* contenido ocupa todo bien */
+.contenido {
+  flex: 1;
+  padding: 30px;
+  max-width: 100%;
+}
+
+/* título grande */
+.card h1 {
+  color: #f5b800;
+}
+
+/* animación suave */
+.card {
+  animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+  from {opacity: 0; transform: translateY(10px);}
+  to {opacity: 1; transform: translateY(0);}
+}
+
+table {
+  margin: 20px auto; /* centra horizontal */
+  border-collapse: collapse;
+}
+
+th, td {
+  text-align: center; /* centra texto */
+  padding: 8px;
+}

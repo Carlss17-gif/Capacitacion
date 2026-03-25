@@ -1,0 +1,48 @@
+{
+  "Tiempo de cocción, retencion y colocación": {
+    "Broiler, Prince Castle y Vaporera": [
+      {"nombre": "Broiler",
+        "tipo": "tabla",
+        "titulo_tabla": "Tiempos de cocción y retención del broiler",
+        "columnas": ["Producto", "coccion", "temp_salida", "retencion", "temp_retencion"],
+        "datos": [
+          {"Producto": "Carne cke","coccion": "2:30 a 3:00 minutos","temp_salida": "160°F","retencion": "20 minutos","temp_retencion": "140°F"},
+          {"Producto": "Carne Angus","coccion": "2:30 a 3:00 minutos","temp_salida": "160°F","retencion": "20 minutos","temp_retencion": "140°F"},
+          {"Producto": "Pollo savory","coccion": "2:30 a 3:00 minutos","temp_salida": "140°F","retencion": "20 minutos","temp_retencion": "140°F"}
+        ]},
+      {"nombre": "Prince_Castle",
+        "tipo": "tabla",
+        "titulo_tabla": "Retención y colocación en el PrinceCastle",
+        "columnas": ["producto", "Cantidad Maxima por charola", "Tiempo de retención", "Cocine cuando falte min. por vencer"],
+        "datos": [
+          {"producto": "Carne cke","Cantidad Maxima por charola": "12 piezas","Tiempo de retención": "20 minutos","Cocine cuando falte min. por vencer": "3 minutos antes de vencer"},
+        {"producto": "Carne Angus","Cantidad Maxima por charola": "8 piezas","Tiempo de retención": "20 minutos","Cocine cuando falte min. por vencer": "3 minutos antes de vencer"}
+      ]},
+      {"nombre": "Vaporera",
+        "tipo": "tabla",
+        "titulo_tabla": "Retención y colocación en la Vaporera",
+        "columnas": ["producto", "Recipiente 1/6", "Recipiente 1/3", "Tiempo de retención"],
+        "datos": [
+          {"producto": "Carne cke","Recipiente 1/6": "12 piezas","Recipiente 1/3":"24 piezas","Tiempo de retención": "20 minutos"},
+          {"producto": "Carne Angus","Recipiente 1/6": "12 piezas","Recipiente 1/3":"24 piezas","Tiempo de retención": "20 minutos"},
+          {"producto": "Pollo savory","Recipiente 1/6": "6 piezas","Recipiente 1/3":"12 piezas","Tiempo de retención": "20 minutos"}
+      ]},
+      {"nombre": "Reglas de retención",
+        "tipo": "lista",
+        "contenido": ["Desechar producto por debajo de 140°F","Cronometrar recipientes por separado","Revisar agua cada 3 horas"]
+      },
+      {"nombre": "Carne Angus",
+        "tipo": "lista",
+        "contenido": ["La parrilla debe de estar a 300°f (precalentar por 30min).","NO se utiliza la prensa.","NO COLOCAR MAS DE 4PZ EN LINEA EN PARRILLA.",
+      "Tiempo de cocción 5 minutos en total (2:30 por cada lado).","Las carnes deben de alcanzar 160°f de cocción.",
+      "TIEMPO DE RETENCIÓN 10 MINUTOS","Cronometrar recipientes por separado","Revisar agua cada 3 horas"]
+      },
+      {"nombre": "Carne cke",
+        "tipo": "lista",
+        "contenido": [" La parrilla debe de estar a 300°f (precalentar por 30 min)","Precalentar las prensas de carne durante 1 min",
+      "Se deben de colocar máximo solo dos carnes debajo de la prensa","Tiempo de cocción 3 minutos (1:30 minutos de cada lado)","Las carnes deben de alcanzar 160°f de cocción",
+      "TIEMPO DE RETENCIÓN 20 MINUTOS"]
+      }
+    ]
+  }
+}

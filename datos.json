@@ -1,0 +1,23 @@
+{
+  " Datos Importantes": {
+    "contenido": [
+     
+      {
+        "nombre": "Definiciones",
+        "tipo": "lista",
+        "contenido": [
+          "PCC: Punto Crítico de Control.",
+          "OPM: Manual de operaciones.",
+          "MSDS: Fichas de datos de seguridad de los químicos (Material Safety Data Sheets).",
+          "R&M: Manual de reparación y mantenimiento.",
+          "QFM: Quality Food Management (Administración de la calidad de los alimentos).",
+          "SOUND OFF: Medición de tiempos de servicio. Se utiliza anunciando los tiempos de preparación a la cocina a través del armado de órdenes desde la estación de centro, con el objetivo de generar sentido de urgencia y mejorar los tiempos de servicio.",
+          "Regla de oro: Tratar a los demás como te gustaría ser tratado.",
+          "Misión de Carl’s Jr: Hacer feliz al invitado.",
+          "ANSUL: Sistema supresor de incendios que actúa en plancha, freidora y asador. Contiene una solución acuosa de sales orgánicas especialmente formuladas, diseñada para sofocar llamas y contenerlas mediante espuma.",
+          "ROS: Sistema Operacional del Restaurante (Restaurant Operational System). Es un sistema de organización basado en el número de empleados y sus posiciones en cada turno."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Área del mostrador": {
+    "Mostrador":[
+    {
+      "nombre": "Tabla de productos",
+      "tipo": "tabla",
+      "titulo_tabla":"",
+      "columnas": ["PRODUCTO", "TIEMPO DE VIDA - USO", "OTRAS OBSERVACIONES"],
+      "datos": [
+        {"PRODUCTO": "Oreo cookie crumbs","TIEMPO DE VIDA - USO": "48 horas","OTRAS OBSERVACIONES": "7 días bolsa abierta en almacén."},
+        {"PRODUCTO": "Conos para helado","TIEMPO DE VIDA - USO": "48 horas","OTRAS OBSERVACIONES": "10 días caja abierta."},
+        {"PRODUCTO": "Helados fresa, vainilla y chocolate.","TIEMPO DE VIDA - USO": "21 días abierto","OTRAS OBSERVACIONES": "45 días en congelador, se les deberán poner 3 fechas, apertura, recepción y caducidad."},
+        {"PRODUCTO": "Jarabe de vainilla","TIEMPO DE VIDA - USO": "30 días","OTRAS OBSERVACIONES": "No exceder la fecha del envase."},
+        {"PRODUCTO": "Galleta","TIEMPO DE VIDA - USO": "72 horas","OTRAS OBSERVACIONES": ""},
+        {"PRODUCTO": "Leche","TIEMPO DE VIDA - USO": "7 días en uso","OTRAS OBSERVACIONES": "Fecha indicada del bote o la caja."},
+        {"PRODUCTO": "Prep de malteadas","TIEMPO DE VIDA - USO": "12 horas","OTRAS OBSERVACIONES": "8 oz malteada grande (2 bolas bien hechas de 4 oz c/u) 6 oz malteada chica (2 bolas bien hechas de 3 oz c/u)"},
+        {"PRODUCTO": "Crema batida","TIEMPO DE VIDA - USO": "Fecha indicada del bote.","OTRAS OBSERVACIONES": "Fecha indicada del bote."},
+        {"PRODUCTO": "Café","TIEMPO DE VIDA - USO": "1 horas","OTRAS OBSERVACIONES": "Mantener arriba de 165°f"},
+        {"PRODUCTO": "Cubetas de sanitizante","TIEMPO DE VIDA - USO": "4 horas cocina. 2 horas tenders. comedor cubeta y de","OTRAS OBSERVACIONES": "Concentración a 100 ppm. (temperatura de 65° f a 75°f)"},
+        {"PRODUCTO": "Aguas Frescas","TIEMPO DE VIDA - USO": "7 días en las tolvas se desechan los días lunes.","OTRAS OBSERVACIONES": "Receta: 14 litros de agua fría por 2 litros de concentrado. 48 horas bajo refrigeración LUNES-MIERCOLES- VIERNES se realiza la limpieza del equipo."}
+      ]}]}
+      }
+    

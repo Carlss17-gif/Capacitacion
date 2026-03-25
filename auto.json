@@ -1,0 +1,67 @@
+{
+  "Drive Thru": {
+    "Auto servicio": [
+      {
+        "nombre": "Estándares de servicio en auto",
+        "tipo": "lista",
+        "contenido": [
+          "Saludo en bocina: inmediato.",
+          "Tiempo en toma de orden (tablero del menú): 45 segundos o menos.",
+          "Tiempo en ventanilla por vehículo: 1 minuto o menos.",
+          "Tiempo total en fila por vehículo: 4 minutos o menos."
+        ]
+      },
+      {
+        "nombre": "Conductas clave en auto",
+        "tipo": "lista",
+        "contenido": [
+          "Las bebidas deben estar listas cuando el vehículo llegue a la ventanilla.",
+          "Las bebidas y popotes deben entregarse inmediatamente después de recibir el pago.",
+          "Los condimentos deben estar listos antes de que los alimentos lleguen a preparación.",
+          "Los alimentos y condimentos deben estar listos antes de completar el pago.",
+          "Los alimentos y condimentos se entregan junto con el cambio."
+        ]
+      },
+      {
+        "nombre": "Atención al cliente en auto",
+        "tipo": "lista",
+        "contenido": [
+          "Saludar de manera amable.",
+          "Sonreír y mantener contacto visual.",
+          "Utilizar frases apropiadas.",
+          "Decir “por favor” y “gracias”."
+        ]
+      },
+      {
+        "nombre": "Guion de autoservicio",
+        "tipo": "texto",
+        "contenido": "Guion de auto servicio (ejemplo)."
+      },
+      {
+        "nombre": "Flujo de servicio en auto",
+        "tipo": "lista",
+        "contenido": [
+          "Tomar la orden de manera clara y precisa.",
+          "Confirmar la orden con el cliente.",
+          "Registrar correctamente en el sistema.",
+          "Preparar bebidas y condimentos con anticipación.",
+          "Cobrar al cliente en ventanilla.",
+          "Entregar bebidas, alimentos y cambio en tiempo y forma.",
+          "Agradecer al cliente e invitarlo a regresar."
+        ]
+      },
+      {
+        "nombre": "Puntos importantes",
+        "tipo": "lista",
+        "contenido": [
+          "Verificar siempre la orden antes de entregarla.",
+          "Evitar tiempos muertos en ventanilla.",
+          "Mantener comunicación constante con cocina.",
+          "Priorizar rapidez sin afectar la calidad.",
+          "Mantener actitud positiva durante todo el servicio."
+        ]
+      },
+      {"nombre": "Guia de Auto Servicio (ejemplo)","tipo": "imagenes","contenido": [{"nombre": "", "img": "auto.png"}]}
+    ]
+  }
+}

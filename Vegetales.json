@@ -1,0 +1,86 @@
+{
+  "Vegetales y Preparacion": {
+    "Lavado de vegetales": [
+      {"nombre": "",
+        "tipo": "lista",
+        "contenido": [
+          "Lave, enjuague y desinfecte todas las superficies de la tina de preparación antes de usar para evitar contaminación cruzada.",
+          "Separar los vegetales por tipo (lechuga, tomate, cebolla). Solo el mismo producto deberá lavarse junto.",
+          "Quitar las hojas exteriores y tallos de la lechuga, tomate o cebolla.",
+          "Lavarse bien las manos.",
+          "Llenar la tina con agua fría a 50 °F.",
+          "Añadir sobre de Veggie Wash y asegurar una concentración de 100 ppm.",
+          "Sumergir el producto en la solución durante 3 minutos.",
+          "Cambiar la solución cuando esté por debajo de la concentración.",
+          "Enjuagar con agua corriente fría y colocar en un recipiente desinfectado."
+        ]},
+        {"nombre":"","tipo":"texto","contenido": "Después de haber lavado y desinfectado los vegetales, seguir con el proceso de preparación de cada producto."},
+        {
+        "nombre": "Temperado de vegetales",
+        "tipo": "texto",
+        "contenido": [
+          "Una vez que los vegetales se sacan del refrigerador, seguir el proceso correcto de temperado y etiquetado<br>El tiempo de vida fuera de refrigeración es de 4 horas.<br>Este tiempo incluye 2 horas de temperado<br>Tiempo de vegetales saliendo de refrigeración: 4 horas."]}
+    ],
+    
+    
+    "Ejemplo de etiquetado": [
+      {
+        "nombre": "",
+        "tipo": "lista",
+        "contenido": [
+          "El restaurante abre al público a las 10 am (para esta hora ya debe haber verdura temperada).",
+          "La verdura se debe sacar a temperar a las 8 am.",
+          "Etiquetado del temperado: 10 am.",
+          "A las 10 am se coloca en la línea y se etiqueta en el chart.",
+          "Etiquetado en la línea: 12 pm.",
+          "Se cumple el proceso de 4 horas (8 am a 12 pm)."
+        ]
+      }
+    ],
+    "Ensaladas": [
+    {
+      "nombre": "Ensaladas",
+      "tipo": "tabla",
+      "titulo_tabla": "Ingredientes (receta completa y media receta)",
+      "columnas": ["Ingrediente", "receta_completa", "media_receta"],
+      "datos": [
+        {"Ingrediente": "Lechuga romana","receta_completa": "1.600 kg (3.53 lb)","media_receta": "0.800 kg (1.75 lb)"},
+        {"Ingrediente": "Lechuga orejona","receta_completa": "700 g (1.54 lb)","media_receta": "350 g (0.75 lb)"},
+        {"Ingrediente": "Col morada","receta_completa": "300 g (0.66 lb)","media_receta": "150 g (0.33 lb)"},
+        {"Ingrediente": "Zanahoria","receta_completa": "400 g (0.88 lb)","media_receta": "200 g (0.44 lb)"},
+        {"Ingrediente": "Peso promedio total","receta_completa": "3 kg (106 oz)","media_receta": "1.5 kg (53 oz)"}]}],
+        
+    "Salsa fresca": [
+      {
+        "nombre": "",
+        "tipo": "lista",
+        "contenido": [
+          "128 oz de tomate",
+          "64 oz de cebolla blanca",
+          "24 oz de jalapeños congelados",
+          "12 oz de cilantro",
+          "1 cuchara copeteada de 10” de sal",
+          "Mantener en refrigeración a 36 a 41 °F.",
+          "Etiquetar a 48 horas."
+        ]},
+      {"nombre": "","tipo": "imagenes","contenido": [{"nombre": "", "img": "proceso_Salsa.png"}]}
+    ],
+    "Guacamole": [
+      {
+        "nombre": "",
+        "tipo": "lista",
+        "contenido": [
+          "Colocar el interior de guacamole en un recipiente de 6” de profundidad.",
+          "Llenar una jarra de 32 oz con salsa fresca bien escurrida.",
+          "Agregar la salsa fresca a la pulpa de aguacate.",
+          "Mezclar con cuchara limpia.",
+          "Pasar a un contenedor limpio.",
+          "Tiempo en refrigeración: 36 horas.",
+          "Tiempo en línea: 12 horas.",
+          "Mantener a 36 a 41 °F."
+        ]
+      },
+      {"nombre": "","tipo": "imagenes","contenido": [{"nombre": "", "img": "guacamole.png"}]}
+    ]
+  }
+}

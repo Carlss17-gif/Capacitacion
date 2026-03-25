@@ -1,0 +1,65 @@
+{
+  "Control de calidad y operación": {
+    "Procesos": [
+      {
+        "nombre": "Puntos de control de calidad",
+        "tipo": "lista",
+        "contenido": [
+          "Centro de distribución.",
+          "Restaurante.",
+          "Almacenamiento.",
+          "Tiempo de vida.",
+          "Descongelado.",
+          "Preparación.",
+          "Armado de la orden.",
+          "Invitado."
+        ]
+      },
+      {
+        "nombre": "Descripción general",
+        "tipo": "lista",
+        "contenido": [
+          "Antes de que una hamburguesa sea servida, pasa por varios puntos de control de calidad.",
+          "Un punto de control es la oportunidad de revisar que solo se sirvan productos de la más alta calidad.",
+          "Los ingredientes pasan por controles desde el centro de distribución.",
+          "Al llegar al restaurante, es responsabilidad mantener la calidad."
+        ]
+      },
+      {
+        "nombre": "Recepción de productos",
+        "tipo": "lista",
+        "contenido": [
+          "Revisar la calidad del producto, caja o embolsado.",
+          "Revisar temperatura en productos refrigerados o congelados.",
+          "Almacenar con sistema PEPS (Primeras Entradas, Primeras Salidas).",
+          "Rotar productos según fechas de recepción.",
+          "Colocar productos a 6 pulgadas del suelo y 2 pulgadas de la pared.",
+          "Evitar humedad y descongelamiento.",
+          "Temperatura de productos congelados: 0°F a 10°F.",
+          "Temperatura de productos refrigerados: 36°F a 41°F.",
+          "No dejar productos fuera más de 10 minutos."
+        ]
+      },
+      {
+        "nombre": "Círculo de influencia",
+        "tipo": "lista",
+        "contenido": [
+          "El círculo de influencia son las acciones de cada persona en su área que afectan QSC.",
+          "Es importante observar los círculos de influencia.",
+          "Cada empleado tiene responsabilidades específicas.",
+          "Las acciones afectan la operación QSC."
+        ]
+      },
+      {
+        "nombre": "Asador (broiler)",
+        "tipo": "lista",
+        "contenido": [
+          "Temperatura interna: 700 a 750°F.",
+          "Temperatura de la placa del pan: 475 a 500°F.",
+          "Colocar la carne a 2 pulgadas de la orilla de la cadena.",
+          "Dejar 1 pulgada entre carne y carne."
+        ]
+      }
+    ]
+  }
+}

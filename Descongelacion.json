@@ -1,0 +1,69 @@
+{
+  "Limpieza y sanitización":[
+  {
+    "Lavado y desinfección de utensilios": [
+      {
+        "nombre": "",
+        "tipo": "lista",
+        "contenido": [
+          "Asegurarse de que todos los fregaderos estén limpios y desinfectados antes de usarse.",
+          "Lavado: Llene el primer compartimento con suficiente agua jabonosa caliente (120 °F) para cubrir las charolas.",
+          "Enjuagado: Mantenga el compartimento central vacío.",
+          "Desinfección: Llene el tercer compartimento con solución desinfectante.",
+          "Sumerja la tira en el desinfectante y compare con la tabla.",
+          "La concentración deberá ser de 50–100 ppm.",
+          "Sumergir los utensilios completamente durante 60 segundos.",
+          "Remover y dejar secar escurriendo.",
+          "No usar toallas.",
+          "Los utensilios deben higienizarse cada 4 horas."
+        ]
+      }
+    ],
+    "Preparación de sanitizante": [
+      {
+        "nombre": "",
+        "tipo": "lista",
+        "contenido": [
+          "Llene el tercer compartimento con 38 L de agua entre 65 a 75 °F.",
+          "Agregue 1 sobre de sanitizante.",
+          "Verifique que tenga 100 ppm.",
+          "La tira se sumerge por 10 segundos.",
+          "No mover ni agitar la tira dentro de la solución."
+        ]
+      }
+    ],
+    "Lavado de manos": [
+      {
+        "nombre": "",
+        "tipo": "lista",
+        "contenido": [
+          "Dispensar toalla de papel antes.",
+          "Usar el lavamanos designado.",
+          "Mojar las manos con agua caliente y jabón.",
+          "Frotar manos, muñecas y antebrazos por 20 segundos.",
+          "Enjuagar completamente con agua caliente.",
+          "Secar con toalla de papel.",
+          "Usar una toalla para cerrar la llave.",
+          "Aplicar gel antibacterial.",
+          "Colocarse guantes limpios."
+        ]
+      }
+    ],
+    "Cuándo lavarse las manos": [
+      {
+        "nombre": "",
+        "tipo": "lista",
+        "contenido": [
+          "Cada 20 minutos.",
+          "Antes de entrar al turno.",
+          "Antes de manipular alimentos.",
+          "Antes de entrar a tu estación.",
+          "Si te tocas alguna parte del cuerpo.",
+          "Después de usar el baño.",
+          "Después de comer.",
+          "Regularmente durante el turno."
+        ]
+      }
+    ]
+  }]
+}

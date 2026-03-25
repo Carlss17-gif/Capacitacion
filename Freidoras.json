@@ -1,0 +1,102 @@
+{
+  " Tiempo de cocción y retención de productos de freidora": {
+    "Prince castle": [
+      {
+        "nombre": "",
+        "tipo": "tabla",
+        "titulo_tabla": "",
+        "columnas": [
+          "producto",
+          "tiempo_coccion",
+          "temperatura_salida",
+          "tiempo_retencion",
+          "temperatura_retencion",
+          "tiempo_extra"
+        ],
+        "datos": [
+          {
+            "producto": "Chicken tenders",
+            "tiempo_coccion": "3:30 minutos",
+            "temperatura_salida": "165 °F",
+            "tiempo_retencion": "30 minutos",
+            "temperatura_retencion": "140 °F",
+            "tiempo_extra": "10 segundos"
+          },
+          {
+            "producto": "Estrellas",
+            "tiempo_coccion": "2:30 minutos",
+            "temperatura_salida": "165 °F",
+            "tiempo_retencion": "30 minutos",
+            "temperatura_retencion": "140 °F",
+            "tiempo_extra": "30 segundos"
+          },
+          {
+            "producto": "Filete (nuevo)",
+            "tiempo_coccion": "4:00 minutos",
+            "temperatura_salida": "165 °F",
+            "tiempo_retencion": "30 minutos",
+            "temperatura_retencion": "140 °F",
+            "tiempo_extra": "10 segundos"
+          },
+          {
+            "producto": "Quínoa",
+            "tiempo_coccion": "2:00 minutos",
+            "temperatura_salida": "160 °F",
+            "tiempo_retencion": "10 minutos",
+            "temperatura_retencion": "140 °F",
+            "tiempo_extra": "N/A"
+          },
+          {
+            "producto": "Aros de cebolla",
+            "tiempo_coccion": "2:00 minutos",
+            "temperatura_salida": "N/A",
+            "tiempo_retencion": "10 minutos",
+            "temperatura_retencion": "N/A",
+            "tiempo_extra": "30 segundos"
+          },
+          {
+            "producto": "Papas crisscut",
+            "tiempo_coccion": "2:30 minutos",
+            "temperatura_salida": "N/A",
+            "tiempo_retencion": "15 minutos",
+            "temperatura_retencion": "N/A",
+            "tiempo_extra": "30 segundos"
+          },
+          {
+            "producto": "Poppers",
+            "tiempo_coccion": "2:00 minutos",
+            "temperatura_salida": "N/A",
+            "tiempo_retencion": "20 minutos",
+            "temperatura_retencion": "N/A",
+            "tiempo_extra": "30 segundos"
+          },
+          {
+            "producto": "Papas fritas",
+            "tiempo_coccion": "3:00 minutos",
+            "temperatura_salida": "N/A",
+            "tiempo_retencion": "7 minutos",
+            "temperatura_retencion": "N/A",
+            "tiempo_extra": "30 segundos"
+          }
+        ]
+      }
+    ],
+    "Embolsado": [
+      {
+        "nombre": "Embolsado",
+        "tipo": "tabla",
+        "titulo_tabla": "Porciones por tamaño",
+        "columnas": ["tamano","peso_crisscut","peso_papas","porcion_aros"],
+        "datos": [
+          {"tamano": "KIDS","peso_crisscut": "2.9 oz","peso_papas": "-","porcion_aros": "-"},
+          {"tamano": "CHICO","peso_crisscut": "3.7 oz","peso_papas": "-","porcion_aros": "-"},
+          {"tamano": "MEDIANO","peso_crisscut": "4.6 oz","peso_papas": "5.2 oz","porcion_aros": "4.20 oz"},
+          {"tamano": "GRANDE","peso_crisscut": "5.7 oz","peso_papas": "5.7 oz","porcion_aros": "-"}]
+        },
+          {"nombre": "Papas fritas","tipo": "lista","contenido": ["5 saladas por cesta de 1/2", "2 saladas por cesta de 1/4"]},
+          {"nombre": "Aros de cebolla","tipo": "lista","contenido": ["Mínimo 8 aros de cebolla por orden mediana","De 10 a 12 piezas de aros para orden grande","3 saladas por orden"]},
+          {"nombre": "Papas Chilli","tipo": "lista","contenido": ["Peso 7.65"]}
+          ]
+    
+  }
+}

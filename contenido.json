@@ -1,0 +1,24 @@
+{
+  "cocina": {
+    "titulo": "Cocina",
+    "temas": [
+      {
+        "nombre": "Salsa Fresca",
+        "contenido": "Tomate, cebolla, cilantro, jalapeño..."
+      },
+      {
+        "nombre": "Guacamole",
+        "contenido": "Pulpa de aguacate + salsa fresca..."
+      }
+    ]
+  },
+  "servicio": {
+    "titulo": "Servicio",
+    "temas": [
+      {
+        "nombre": "Uber Eats",
+        "contenido": "Confirmar pedido, empacar, sellar..."
+      }
+    ]
+  }
+}

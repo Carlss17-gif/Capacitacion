@@ -1,0 +1,112 @@
+{
+  "Estación de cocina": {
+    "Uso Pinzas": [
+      {
+        "nombre": "Uso de pinzas",
+        "tipo": "lista",
+        "contenido": [
+          "Pinzas dentadas metálicas uso exclusivo de carne congelada.",
+          "Pinzas con mango azul para pollo savory.",
+          "Pinzas con mango rojo para Chicken Tenders.",
+          "Pinzas metálicas de uso genérico.",
+          "Pinzas metálicas de mango amarillo para quinoa.",
+          "Espátula larga para carne Big Angus"
+        ]}
+    ],
+    "Congelador": [
+      {
+        "nombre": "Congelador",
+        "tipo": "lista",
+        "contenido": ["Las carnes de hamburguesa no deberán rebasar los 10°F.","Las carnes no deben rebasar la línea de congelación.","Las pinzas se deberán cambiar cada 4 hrs para su lavado y sanitizado."]}
+    ],
+    "Estacion Feeder": [
+      {"nombre": "",
+        "tipo": "lista",
+        "contenido": [
+          "Usar siempre las pinzas o espátula designada para cada producto","Carne CKE, carne Angus y pollo Savory: deberán enviarse al principio de la cadena del asador",
+          "No poner producto más cerca de 2 pulgadas de la orilla de la cadena","Dejar por lo menos 1 pulgada entre cada producto"]},
+      {"nombre": "Tipos de pan",
+        "tipo": "imagenes",
+        "contenido": [
+          {"nombre": "PAN TRADICIONAL", "img": "tradicional.png"},
+          {"nombre": "PAN INTEGRAL", "img": "integral.png"},
+          {"nombre": "PAN BUN", "img": "bun.png"},
+          {"nombre": "PAN HORNEADO", "img": "horneado.png"}
+        ]
+      },
+      {"nombre": "",
+        "tipo": "lista",
+        "contenido": [
+          "Los panes que se les deberá untar mantequilla son: horneado y sourdogh.",
+          "El pan deberá enviarse por el asado tacón lado izquierdo, corona lado derecho.",
+          "IMPORTANTE SIEMPRE ANTES DE ENTRAR A LA ESTACION LAVADO DE MANOS Y USAR GUANTES EN EL AREA."
+        ]}],
+      "Tiempo de vida de los panes": [
+      {
+        "nombre": "Procedimiento para los panes congelados",
+        "tipo": "lista",
+        "contenido": [
+          "Pan Integral (Honey Wheat) 4.0”",
+          "Pan Premium 4.25”",
+          "Pan Sencillo Chico (Plain Bun) 4.0”"
+        ]
+      },
+      {
+        "nombre": "","tipo": "texto",
+        "contenido": [
+          "ALMACENAMIENTO: Congelador<br><br>TIEMPO DE DESCONGELACIÓN: 6 horas<br><br>TIEMPO DE VIDA: 5 días.<br><br>Los panes deben descongelarse a temperatura ambiente",
+          "Los paquetes de panes se descongelan en 6 horas y se deben usar en un plazo de 5 días, incluido el tiempo de descongelación",
+          "Utilice un sistema de tiempo aprobado.<br>Los Panes tostados tienen un tiempo de retención de 5 minutos."
+        ]
+      }
+    ],
+    "Dispensador de sal y pimienta Angus": [
+      {
+        "nombre": "",
+        "tipo": "lista",
+        "contenido": [
+          "Llene el dispensador limpio, desinfectado y seco con la mezcla de Sal - Pimienta.",
+          "Coloque un tiempo de descarte de 7 días en el dispensador.",
+          "Cierre y selle la bolsa y colóquela en almacenamiento seco.",
+          "Merme de acuerdo con la caducidad del empaque.",
+          "Coloque el dispensador en una superficie limpia y desinfectada cerca de la parrilla para condimentar las hamburguesas Angus.",
+          "El dispensador se limpia semanalmente o según sea necesario.",
+          "No se debe desarmar.",
+          "Permita que se seque al aire durante la noche.",
+          "Utilizar el dispensador húmedo puede generar grumos y obstrucciones."
+        ]
+      },
+      {
+        "nombre": "Condimentar Angus",
+        "tipo": "lista",
+        "contenido": [
+          "Sostenga el dispensador a 6 pulgadas (15 cm) de altura.",
+          "Aplique un clic en el centro de cada hamburguesa antes de colocarla en la parrilla.",
+          "No condimentar antes de esto afecta la calidad.",
+          "No condimentar en la cinta transportadora.",
+          "No tocar hamburguesas con el dispensador.",
+          "Si hay contacto, limpiar inmediatamente con sanitizante."
+        ]
+      }
+    ],
+    "Descongelacion": [
+      {
+        "nombre": "Tabla de descongelación",
+        "tipo": "tabla",
+        "titulo_tabla": "Tiempos de descongelación y vida en refrigeración",
+        "columnas": ["producto", "vida_refrigeracion", "tiempo_descongelacion"],
+        "datos": [
+          {"producto": "Carne Angus", "vida_refrigeracion": "5 días", "tiempo_descongelacion": "24 horas"},
+          {"producto": "Pollo savory", "vida_refrigeracion": "5 días", "tiempo_descongelacion": "24 horas"},
+          {"producto": "Chicken tenders", "vida_refrigeracion": "5 días", "tiempo_descongelacion": "48 horas"},
+          {"producto": "Pulpa de aguacate", "vida_refrigeracion": "7 días", "tiempo_descongelacion": "24 horas"},
+          {"producto": "Salsa Chilli", "vida_refrigeracion": "7 días", "tiempo_descongelacion": "24 horas"},
+          {"producto": "Portobello", "vida_refrigeracion": "3 días", "tiempo_descongelacion": "24 horas"},
+          {"producto": "Crema batida", "vida_refrigeracion": "Fecha de caducidad del empaque", "tiempo_descongelacion": "Fecha de caducidad del empaque"},
+          {"producto": "Quínoa", "vida_refrigeracion": "3 días", "tiempo_descongelacion": "24 horas"},
+          {"producto": "Nuevo filete pollo empanizado", "vida_refrigeracion": "5 días", "tiempo_descongelacion": "48 horas"}
+        ]
+      }
+    ]
+  }
+}

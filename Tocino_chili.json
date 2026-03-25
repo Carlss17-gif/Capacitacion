@@ -1,0 +1,61 @@
+{
+  "Tocino y Chilli": {
+    "contenido": [
+      {
+        "nombre": "Tocino",
+        "tipo": "lista",
+        "contenido": [
+          "1 hora bajo la resistencia de calor",
+          "5 minutos bajo la lámpara de calor antes de utilizarse",
+          "Máximo 5 hojas (50 piezas de tocino)",
+          "36 horas porcionado para calentar",
+          "5 días bolsa abierta en refrigeración"
+        ]
+      },
+      {
+        "nombre": "Microondas 1200W",
+        "tipo": "lista",
+        "contenido": [
+          "25 segundos – 1 hoja / 10 tiras",
+          "45 segundos – 2 hojas / 20 tiras"
+        ]
+      },
+      {
+        "nombre": "Microondas 1700-1800W",
+        "tipo": "lista",
+        "contenido": [
+          "20 segundos – 1 hoja / 10 tiras",
+          "35 segundos – 2 hojas / 20 tiras"
+        ]
+      },
+      {
+        "nombre": "Procedimiento",
+        "tipo": "lista",
+        "contenido": [
+          "Lávese y desinféctese las manos en el fregadero designado.",
+          "Con guantes desechables, retire 10 rebanadas de tocino del papel vegetal.",
+          "Colóquelas directamente en la rejilla para tocino.",
+          "Extienda el tocino uniformemente.",
+          "Repita el proceso hasta 5 capas.",
+          "No colocar más de 50 rebanadas.",
+          "El tocino no se calentará correctamente si se excede.",
+          "El tocino siempre debe calentarse.",
+          "Nunca colocar tocino frío en un producto.",
+          "Colocar el tocino en la división 1 bajo la lámpara de calor.",
+          "Máximo 50 tiras.",
+          "Después de 5 minutos pasar a división 2 con tiempo de vida de 1 hora."
+        ]
+      },
+      {
+        "nombre": "Chilli",
+        "tipo": "lista",
+        "contenido": [
+          "Tiempo de vida del chilli en vaporera: 5 horas.",
+          "Mantener a temperatura mínima de 140°F.",
+          "No está autorizado cocinar y refrigerar carne para la elaboración del chilli.",
+          "La carne debe de cocinarse cada que sea necesario."
+        ]
+      }
+    ]
+  }
+}

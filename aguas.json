@@ -1,0 +1,26 @@
+{
+  "Aguas Frescas": {
+    "contenido": [
+      {
+        "nombre": "Preparación",
+        "tipo": "lista",
+        "contenido": [
+          "14 litros de agua",
+          "2 litros de concentrado",
+          "Mezclar correctamente",
+          "Colocar en tolvas"
+        ]
+      },
+      {
+        "nombre": "Tiempo de vida",
+        "tipo": "texto",
+        "contenido": "7 días en tolvas"
+      },
+      {
+        "nombre": "Limpieza",
+        "tipo": "texto",
+        "contenido": "Limpieza de máquinas lunes, miércoles y viernes"
+      }
+    ]
+  }
+}

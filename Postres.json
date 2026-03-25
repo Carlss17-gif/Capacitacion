@@ -1,0 +1,101 @@
+{
+  "Postres y Helados": {
+    "Postres": [
+      {
+        "nombre": "Medidas de malteadas",
+        "tipo": "lista",
+        "contenido": [
+          "Prep: 8 oz para malteada grande.",
+          "Prep: 6 oz para malteada chica."
+        ]
+      },
+      {
+        "nombre": "Proceso de preparación de malteadas",
+        "tipo": "lista",
+        "contenido": [
+          "Ajuste el control de la batidora a “40” antes de preparar la malteada.",
+          "Obtenga una porción de helado sabor vainilla en un vaso (dependiendo si es chica o grande).",
+          "Añadir una cucharada de plástico transparente de 10 oz de Oreo molido (si aplica) o un push de jarabe de vainilla.",
+          "Vierta leche fresca hasta la línea de llenado.",
+          "Presione ligeramente los lados del vaso para remover burbujas de aire.",
+          "Coloque la tapa de cúpula transparente.",
+          "Asegúrese de que la velocidad de la mezcladora esté en 40.",
+          "Coloque el vaso en el eje de la batidora, cubriendo aproximadamente la mitad del vaso.",
+          "Encienda la batidora y mezcle moviendo el vaso hacia arriba y hacia abajo.",
+          "Asegúrese de tocar el fondo del vaso para lograr una mezcla uniforme sin grumos.",
+          "Apague la batidora y retire el vaso.",
+          "La malteada debe ser espesa, no aguada.",
+          "Si no queda con la textura adecuada, deséchela y prepare una nueva.",
+          "La malteada debe tener un color uniforme, sin trozos visibles.",
+          "Cubra con crema batida en la parte superior.",
+          "Servir con popote."
+        ]
+      },
+      {
+        "nombre": "Bola sencilla de helado",
+        "tipo": "lista",
+        "contenido": [
+          "Una bola sencilla debe pesar 4 oz.",
+          "Mostrar a los empleados la forma correcta de servir.",
+          "Pesar ocasionalmente (sin hacerlo frente a los invitados)."
+        ]
+      },
+      {
+        "nombre": "Proceso general de helado",
+        "tipo": "lista",
+        "contenido": [
+          "Al servir diferentes sabores, enjuagar correctamente el cucharón.",
+          "Escurrir el exceso de agua antes de servir el helado."
+        ]
+      },
+      {
+        "nombre": "Procedimiento sin dipwell",
+        "tipo": "lista",
+        "contenido": [
+          "Llenar una charola de 1/6 hasta la mitad con agua tibia.",
+          "Etiquetar con tiempo de descarte de 4 horas.",
+          "Colocar la cuchara para helado de 2 oz dentro de la charola.",
+          "Colocar la charola en la mesa de preparación antes de iniciar servicio.",
+          "Después de su uso, llevar el utensilio al fregadero para lavar, enjuagar, desinfectar y dejar secar al aire."
+        ]
+      },
+      {
+        "nombre": "Conos y presentación",
+        "tipo": "lista",
+        "contenido": [
+          "Verificar que el cono esté en buen estado (sin quebraduras).",
+          "Servir el helado con presentación uniforme.",
+          "Evitar exceso de producto fuera del cono."
+        ]
+      },
+      {
+        "nombre": "Uso de crema batida",
+        "tipo": "lista",
+        "contenido": [
+          "Aplicar crema batida en la parte superior del producto.",
+          "No exceder la cantidad estándar.",
+          "Mantener el envase en condiciones adecuadas según indicaciones del fabricante."
+        ]
+      },
+      {
+        "nombre": "Tiempos y configuraciones",
+        "tipo": "lista",
+        "contenido": [
+          "Tiempo de vida del vaso metálico de malteadas: 4 horas.",
+          "Velocidad de la máquina de malteadas (versión anterior): 40 rpm.",
+          "Velocidad de la máquina de malteadas (versión actualizada): 80 rpm."
+        ]
+      },
+      {
+        "nombre": "Limpieza y control",
+        "tipo": "lista",
+        "contenido": [
+          "Mantener utensilios limpios y desinfectados antes de su uso.",
+          "No mezclar utensilios entre productos sin lavar previamente.",
+          "Respetar tiempos de vida de cada producto.",
+          "Desechar producto que no cumpla con estándares de calidad."
+        ]
+      }
+    ]
+  }
+}

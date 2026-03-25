@@ -1,0 +1,35 @@
+{
+  "Servicio Super Star y Manejo de Quejas": {
+    "Servicio Super Star": [
+      {"nombre": "5 picos de la estrella","tipo": "imagenes","contenido": [{"nombre": "", "img": "estrella.png"}]},
+      {"nombre": "Significado de SUPER","tipo": "imagenes","contenido": [{"nombre": "", "img": "super.png"}]},
+      {
+        "nombre": "Pasos con base a nuestro estándar para resolver una queja",
+        "tipo": "lista",
+        "contenido": [
+          "Escuchar",
+          "Disculparse",
+          "Satisfacer",
+          "Agradecer"
+        ]
+      },
+      {
+        "nombre": "Procedimiento de manejo de quejas",
+        "tipo": "lista",
+        "contenido": [
+          "1. Siempre escuche, nunca interrumpa al invitado ni dé la impresión de estar distraído o de que no hay problema.",
+          "2. Mantenga la calma y no se ponga a la defensiva.",
+          "3. Discúlpese sin admitir culpa o responsabilidad. Use frases como “Siento que haya tenido una mala experiencia” y no “Perdón por haberle provocado este inconveniente”.",
+          "4. Pregunte qué puede hacer para resolver la situación. Haga todo lo posible por el invitado.",
+          "5. Obtenga la mayor cantidad de información posible y transmítala al equipo.",
+          "6. Siempre agradezca al invitado por notificar la situación y dar la oportunidad de corregirla."
+        ]
+      },
+      {
+        "nombre": "Importante",
+        "tipo": "texto",
+        "contenido": "Si un invitado solicita un número para quejarse, dar un comentario o tratar algún tema relacionado con una sucursal, se le debe proporcionar el número del Gerente de Operaciones."
+      }
+    ]
+  }
+}

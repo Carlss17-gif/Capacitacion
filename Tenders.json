@@ -1,0 +1,97 @@
+{
+  "Estacion Tenders": {
+    "Productos": [
+      {
+        "nombre": "Productos en estación",
+        "tipo": "tabla",
+        "titulo_tabla": "Tiempo de vida y observaciones",
+        "columnas": ["producto", "tiempo_vida_estacion", "observaciones"],
+        "datos": [
+          {
+            "producto": "Pan molido",
+            "tiempo_vida_estacion": "7 días en uso / 14 días bulto abierto en almacén",
+            "observaciones": "Cada 4 horas se cierne el pan o cada 2 bolsas de tenders"
+          },
+          {
+            "producto": "Chicken tenders",
+            "tiempo_vida_estacion": "48 horas",
+            "observaciones": "Se debe conservar a temperatura de 36 a 41 °F"
+          },
+          {
+            "producto": "Filete",
+            "tiempo_vida_estacion": "48 horas",
+            "observaciones": "Se debe conservar a temperatura de 36 a 41 °F"
+          },
+          {
+            "producto": "Capeado",
+            "tiempo_vida_estacion": "12 horas",
+            "observaciones": "24 horas en refrigeración (reserva)"
+          },
+          {
+            "producto": "Agua sanitizada",
+            "tiempo_vida_estacion": "2 horas",
+            "observaciones": "Potencia de 100 ppm (temperatura de 65 °F a 75 °F)"
+          }
+        ]
+      }
+    ],
+    "Mezcla de tenders": [
+      {
+        "nombre": "Mezcla Tenders",
+        "tipo": "lista",
+        "contenido": [
+          "Temperatura: 36 a 41 °F",
+          "52 oz de agua (36 °F a 41 °F)",
+          "1 bolsa de mezcla buttermilk",
+          "Reserva: 24 horas"
+        ]
+      }
+    ],
+    "Tiempos de vida": [
+      {
+        "nombre": "Tiempos de vida de salsas y productos",
+        "tipo": "tabla",
+        "titulo_tabla": "Uso y refrigeración",
+        "columnas": ["producto", "tiempo_uso", "tiempo_refrigeracion"],
+        "datos": [
+          {"producto": "Salsa BBQ", "tiempo_uso": "48 horas", "tiempo_refrigeracion": "7 días"},
+          {"producto": "Salsa teriyaki", "tiempo_uso": "48 horas", "tiempo_refrigeracion": "14 días"},
+          {"producto": "Salsa Santa Fe", "tiempo_uso": "48 horas", "tiempo_refrigeracion": "7 días"},
+          {"producto": "Salsa clásica", "tiempo_uso": "48 horas", "tiempo_refrigeracion": "7 días"},
+          {"producto": "Salsa especial", "tiempo_uso": "48 horas", "tiempo_refrigeracion": "7 días"},
+          {"producto": "Mayonesa", "tiempo_uso": "48 horas", "tiempo_refrigeracion": "10 días"},
+          {"producto": "Cátsup", "tiempo_uso": "10 días", "tiempo_refrigeracion": "10 días"},
+          {"producto": "Mostaza", "tiempo_uso": "10 días", "tiempo_refrigeracion": "10 días"},
+          {"producto": "Queso americano, suizo y morrón", "tiempo_uso": "4 horas", "tiempo_refrigeracion": "7 días"},
+          {"producto": "Queso mixto rallado", "tiempo_uso": "4 horas en hielo / 24 horas en refri", "tiempo_refrigeracion": "5 días"},
+          {"producto": "Lechuga", "tiempo_uso": "4 horas", "tiempo_refrigeracion": "24 horas"},
+          {"producto": "Tomate", "tiempo_uso": "4 horas", "tiempo_refrigeracion": "24 horas"},
+          {"producto": "Cebolla blanca", "tiempo_uso": "4 horas", "tiempo_refrigeracion": "24 horas"},
+          {"producto": "Cebolla morada", "tiempo_uso": "4 horas", "tiempo_refrigeracion": "24 horas"},
+          {"producto": "Jalapeño en rodajas", "tiempo_uso": "48 horas", "tiempo_refrigeracion": "7 días"},
+          {"producto": "Pepinillo", "tiempo_uso": "48 horas", "tiempo_refrigeracion": "10 días cubeta abierta"},
+          {"producto": "Chile California", "tiempo_uso": "48 horas", "tiempo_refrigeracion": "3 días"},
+          {"producto": "Salsa ranch", "tiempo_uso": "48 horas", "tiempo_refrigeracion": "5 días"},
+          {"producto": "Salsa honey mustard", "tiempo_uso": "48 horas", "tiempo_refrigeracion": "14 días"},
+          {"producto": "Salsa verde", "tiempo_uso": "48 horas", "tiempo_refrigeracion": "10 días"},
+          {"producto": "Salsa roja", "tiempo_uso": "48 horas", "tiempo_refrigeracion": "10 días"},
+          {"producto": "Queso nacho", "tiempo_uso": "6 horas en vaporera", "tiempo_refrigeracion": "5 días"},
+          {"producto": "Pepino", "tiempo_uso": "24 horas", "tiempo_refrigeracion": "24 horas"},
+          {"producto": "Guacamole (preparado)", "tiempo_uso": "12 horas", "tiempo_refrigeracion": "36 horas"},
+          {"producto": "Piña", "tiempo_uso": "48 horas", "tiempo_refrigeracion": "48 horas"},
+          {"producto": "Mantequilla", "tiempo_uso": "Al final del día", "tiempo_refrigeracion": "21 días (bote abierto)"}
+          ]
+      }
+    ],
+    "Almacenamiento": [
+      {
+        "nombre": "Almacenamiento",
+        "tipo": "lista",
+        "contenido": [
+          "Almacenar en la parte más baja del anaquel.",
+          "No debajo de tenders y filete."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "Zona de Peligro": {
+    "Temperaturas": [
+      {
+        "nombre": "Zona de peligro",
+        "tipo": "texto",
+        "contenido": "DE 41°F A 140°F LA ZONA DE PELIGRO ES LA TEMPERATURA DONDE LAS BACTERIAS SE DESARROLLAN CON RAPIDEZ Y PROVOCAN ENFERMEDADES."
+      },
+      {
+        "nombre": "Temperaturas",
+        "tipo": "lista",
+        "contenido": [
+          "700-750°F Broiler (asador de carne)",
+          "475-500°F Platina del pan",
+          "350°F Freidoras (+-5°F)",
+          "325°F Horno Blodget (pan horneado, tocino)",
+          "325°F Cocción de galletas",
+          "300-325°F Parrilla de desayunos (300°F huevo / 325°F carnes y hotcakes)",
+          "225°F Prince castle (retención)",
+          "190-200°F Agua para cafetera",
+          "180-200°F Steamer (vaporera)",
+          "165°F Cocción de chicken tenders, estrellas de pollo, filete",
+          "Preparación de chilli, porto y salsa queso en el horno",
+          "160°F Cocción de carne cke, carne angus y quinoa",
+          "140°F Cocción de pollo savory y productos en retención",
+          "120°F Agua de tarja de lavado",
+          "110°F Agua lavamanos",
+          "36-41°F Temperatura de refrigeración",
+          "0-10°F Temperatura de congelación"
+        ]
+      },
+      {
+        "nombre": "Asador (Broile)",
+        "tipo": "lista",
+        "contenido": [
+          "Temperatura interna: 700 a 750°f.",
+          "Temperatura de la placa del pan: 475 a 500°f.",
+          "La carne se deberá colocar a 2” pulgadas de la orilla de la cadena",
+          "Y 1” entre carne y carne."
+        ]
+      }
+    ]
+  }
+}
