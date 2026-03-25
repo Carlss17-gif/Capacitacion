@@ -1,33 +1,46 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
+  <meta charset="UTF-8">
   <link rel="stylesheet" href="auth.css">
   <script src="https://unpkg.com/@supabase/supabase-js@2"></script>
 </head>
-<!-- HEADER SUPERIOR -->
-<div class="auth-header">
-  <h1 class="titulo">Proyecto de Capacitación</h1>
-  
-  <img src="Tenedor.jpeg" class="logo left">
-</div>
+
 <body class="auth-page">
 
+<!-- HEADER -->
+<div class="auth-header">
+  <img src="CarlsLogo.png" class="logo center">
+  <p class="sub">Operado por Cero Tenedor</p>
+</div>
+
+<!-- CONTENIDO -->
 <div class="auth-container">
   <div class="auth-card">
-    <h2>Login</h2>
+    <h2>Acceso</h2>
 
-    <input id="email" placeholder="Email">
-    <input id="password" type="password" placeholder="Password">
+    <input id="email" placeholder="Correo electrónico">
+    <input id="password" type="password" placeholder="Contraseña">
 
     <div class="auth-options">
       <label><input type="checkbox"> Recordarme</label>
-      <span class="link">¿Olvidaste contraseña?</span>
+      <span class="link">¿Olvidaste tu contraseña?</span>
     </div>
 
     <button onclick="login()">Entrar</button>
     <button class="secondary" onclick="irRegistro()">Registrarse</button>
+
+    <p class="security">
+      Acceso exclusivo para personal autorizado<br>
+      Uso interno únicamente
+    </p>
   </div>
 </div>
+
+<footer>
+  © 2026 Cero Tenedor, AGRUPACION RINCON MORALES S de RL de CV <br>
+  Plataforma interna de capacitación.
+</footer>
 
 <script src="supabase.js"></script>
 <script src="auth.js"></script>
