@@ -1,30 +1,49 @@
 /* =========================
-   RESET BÁSICO
-   ========================= */
+   RESET
+========================= */
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 /* =========================
-   FONDO GENERAL
-   ========================= */
+   FONDO
+========================= */
 .auth-page {
-  font-family: Arial, sans-serif;
   min-height: 100vh;
-
   display: flex;
-  align-items: center;
   justify-content: center;
+  align-items: center;
 
-  /* degradado moderno */
-  background: linear-gradient(135deg, #012b24, #000000);
+  background: linear-gradient(135deg, #000000, #1a1a1a);
+  color: white;
+}
+
+/* =========================
+   HEADER (BRANDING)
+========================= */
+.auth-header {
+  position: absolute;
+  top: 30px;
+  width: 100%;
+  text-align: center;
+}
+
+.auth-header .logo {
+  width: 140px;
+}
+
+.auth-header .sub {
+  font-size: 13px;
+  color: #ccc;
+  margin-top: 5px;
 }
 
 /* =========================
    CONTENEDOR
-   ========================= */
+========================= */
 .auth-container {
   width: 100%;
   padding: 20px;
@@ -33,57 +52,70 @@
 }
 
 /* =========================
-   TARJETA (GLASS)
-   ========================= */
+   CARD
+========================= */
 .auth-card {
   width: 100%;
   max-width: 380px;
   padding: 30px;
 
-  border-radius: 20px;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
 
-  background: rgba(255, 255, 255, 0.08);
-  backdrop-filter: blur(12px);
-
-  box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.4);
 
   text-align: center;
-  color: white;
-
-  animation: fadeIn 0.4s ease;
 }
 
 /* =========================
-   TITULO
-   ========================= */
+   TITULOS
+========================= */
 .auth-card h2 {
-  margin-bottom: 50px;
+  margin-bottom: 20px;
+}
+
+/* TEXTO INFORMATIVO */
+.info {
+  font-size: 12px;
+  color: #bbb;
+  margin-bottom: 15px;
 }
 
 /* =========================
    INPUTS
-   ========================= */
-.auth-card input {
+========================= */
+.auth-card input,
+.auth-card select {
   width: 100%;
   padding: 12px;
   margin: 10px 0;
 
   border: none;
-  border-radius: 10px;
+  border-radius: 8px;
+
+  background: #2a2a2a;
+  color: white;
 
   outline: none;
-
-  background: rgba(255,255,255,0.15);
-  color: white;
 }
 
 .auth-card input::placeholder {
-  color: rgba(255,255,255,0.7);
+  color: #aaa;
+}
+
+/* TEXTOS PEQUEÑOS */
+small {
+  display: block;
+  font-size: 11px;
+  color: #888;
+  margin-bottom: 10px;
+  text-align: left;
 }
 
 /* =========================
    OPCIONES
-   ========================= */
+========================= */
 .auth-options {
   display: flex;
   justify-content: space-between;
@@ -99,16 +131,12 @@
 
 .auth-options .link {
   cursor: pointer;
-  opacity: 0.8;
-}
-
-.auth-options .link:hover {
-  opacity: 1;
+  color: #ffcc00;
 }
 
 /* =========================
    BOTONES
-   ========================= */
+========================= */
 .auth-card button {
   width: 100%;
   padding: 12px;
@@ -117,99 +145,63 @@
   border: none;
   border-radius: 25px;
 
-  background: white;
-  color: #333;
-
   font-weight: bold;
   cursor: pointer;
-
   transition: 0.3s;
 }
 
-.auth-card button:hover {
-  transform: scale(1.05);
+/* BOTÓN PRINCIPAL */
+.auth-card button:not(.secondary) {
+  background: #d62828;
+  color: white;
+}
+
+.auth-card button:not(.secondary):hover {
+  background: #a61e1e;
 }
 
 /* BOTÓN SECUNDARIO */
 .auth-card .secondary {
   background: transparent;
-  border: 1px solid white;
-  color: white;
+  border: 1px solid #ffcc00;
+  color: #ffcc00;
+}
+
+/* HOVER GENERAL */
+.auth-card button:hover {
+  transform: scale(1.03);
 }
 
 /* =========================
-   ANIMACIÓN
-   ========================= */
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-    transform: translateY(15px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
+   MENSAJE SEGURIDAD
+========================= */
+.security {
+  font-size: 11px;
+  color: #777;
+  margin-top: 15px;
+}
+
+/* =========================
+   FOOTER
+========================= */
+footer {
+  position: absolute;
+  bottom: 10px;
+  width: 100%;
+  text-align: center;
+  font-size: 11px;
+  color: #666;
 }
 
 /* =========================
    RESPONSIVE
-   ========================= */
+========================= */
 @media (max-width: 480px) {
   .auth-card {
     padding: 20px;
   }
-}
-/* =========================
-   HEADER SUPERIOR
-   ========================= */
-.auth-header {
-  position: absolute;
-  top: 20px;
-  left: 0;
-  width: 100%;
 
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
-  pointer-events: none; /* evita problemas de clic */
-}
-
-/* LOGOS */
-.auth-header .logo {
-  position: absolute;
-  width: 80px;
-  max-width: 20vw;
-}
-
-/* IZQUIERDA */
-.auth-header .left {
-  left: 60px;
-}
-
-/* DERECHA */
-.auth-header .right {
-  right: 60px;
-}
-
-/* TITULO */
-.auth-header .titulo {
-  color: white;
-  font-size: 22px;
-  text-align: center;
-  font-weight: bold;
-}
-
-/* =========================
-   RESPONSIVE
-   ========================= */
-@media (max-width: 600px) {
   .auth-header .logo {
-    width: 60px;
-  }
-
-  .auth-header .titulo {
-    font-size: 40px;
-    padding: 0 70px; /* evita que el texto choque con logos */
+    width: 110px;
   }
 }
