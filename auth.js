@@ -13,7 +13,7 @@ async function registrar(){
   await mysupabase.from("empleados").insert([data]);
 
   alert("Registrado");
-  window.location.href = "login.html";
+  window.location.href = "index.html";
 }
 
 async function login(){
