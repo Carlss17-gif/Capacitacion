@@ -149,8 +149,6 @@ if (error) {
   console.error("ERROR SUPABASE:", error);
   alert("Error al guardar");
 } else {
-  console.log("GUARDADO:", data);
-  alert("Examen guardado correctamente");
   window.location.href = "Indice.html";
   
 }
