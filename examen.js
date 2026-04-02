@@ -151,5 +151,7 @@ if (error) {
 } else {
   console.log("GUARDADO:", data);
   alert("Examen guardado correctamente");
+  window.location.href = "Indice.html";
+  
 }
 }
